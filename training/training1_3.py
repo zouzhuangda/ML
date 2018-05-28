@@ -6,8 +6,8 @@ from itertools import islice
 BATH_SIZE = 10 #一次喂入神经网络的数据尺寸
 
 # filename = "C:\\Users\\joe\\Documents\\iris\\iris.data"
-filename = "C:\\Users\\zouzh\\OneDrive\\Documents\\ML\\ExerciseData\\iris_training.csv"
-filename_test = "C:\\Users\\zouzh\\OneDrive\\Documents\\ML\\ExerciseData\\iris_test.csv"
+filename = "../ExerciseData/iris_training.csv"
+filename_test = "../ExerciseData/iris_test.csv"
 
 data = None
 data_test = None
